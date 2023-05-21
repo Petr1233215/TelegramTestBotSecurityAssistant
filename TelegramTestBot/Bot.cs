@@ -144,7 +144,6 @@ namespace TelegramTestBot
                         model.CountCorrectAnswers++;
 
                     model.NextQuestion();
-                    question = _containerQ.Questions[model.CurrentQuestionNumber.ToString()];
                     if (model.IsEndTest())
                     {
                         await botClient.SendTextMessageAsync(message.Chat, "Тест завершен.");
@@ -152,6 +151,7 @@ namespace TelegramTestBot
                         return;
                     }
 
+                    question = _containerQ.Questions[model.CurrentQuestionNumber.ToString()];
                     await SendPhoto(question.Path, question.Title);
                     return;
                 }
