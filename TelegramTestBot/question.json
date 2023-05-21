@@ -1,0 +1,54 @@
+﻿{
+  "Questions": {
+    "1": {
+      "Path": "questionsPhoto/1.png",
+      "Title": "Продолжительность работы (смены) в ночное время сокращается на: (статья 96 ТК РФ)",
+      "Answer": "2"
+    },
+    "2": {
+      "Path": "questionsPhoto/2.png",
+      "Title": "Какая работа считается работой в ночное время, и как она оплачивается? (статьи 96 и 154 ТК РФ)",
+      "Answer": "1"
+    },
+    "3": {
+      "Path": "questionsPhoto/3.png",
+      "Title": "Продолжительность ежегодного основного оплачиваемого отпуска работников составляет: (статья 115 ТК РФ)",
+      "Answer": "3"
+    },
+    "4": {
+      "Path": "questionsPhoto/4.png",
+      "Title": "Правила внутреннего трудового распорядка утверждаются: (статья 190 ТК РФ)",
+      "Answer": "3"
+    },
+    "5": {
+      "Path": "questionsPhoto/5.png",
+      "Title": "",
+      "Answer": "1"
+    },
+    "6": {
+      "Path": "questionsPhoto/6.png",
+      "Title": "",
+      "Answer": "2"
+    },
+    "7": {
+      "Path": "questionsPhoto/7.png",
+      "Title": "",
+      "Answer": "4"
+    },
+    "8": {
+      "Path": "questionsPhoto/8.png",
+      "Title": "",
+      "Answer": "3"
+    },
+    "9": {
+      "Path": "questionsPhoto/9.png",
+      "Title": "",
+      "Answer": "3"
+    },
+    "10": {
+      "Path": "questionsPhoto/10.png",
+      "Title": "",
+      "Answer": "3"
+    }
+  }
+}

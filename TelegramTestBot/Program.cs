@@ -6,7 +6,12 @@ namespace TelegramTestBot
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //NEED WRITE TELEGRAM BOT CODE
+            var bot = new Bot("");
+            bot.Start();
+
+            Console.ReadLine();
+            bot.Dispose();
         }
     }
 }

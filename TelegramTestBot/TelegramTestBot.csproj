@@ -9,4 +9,16 @@
     <PackageReference Include="telegram.bot" Version="19.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include="questionsPhoto\**">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="question.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
